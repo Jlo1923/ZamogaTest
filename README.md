@@ -1,7 +1,7 @@
 # ZamogaTest - Android Architecture
 
 
-A Rick And Morty simple app that loads information from [The placeHolder API](https://jsonplaceholder.typicode.com/) to show one approach to using some of the best practices in Android Development. Including:
+ZamogaTest app that loads information from [The placeHolder API](https://jsonplaceholder.typicode.com/) to show one approach to using some of the best practices in Android Development. Including:
  * ViewModel
  * LiveData
  * Hilt (for dependency injection)
